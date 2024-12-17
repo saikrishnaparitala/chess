@@ -1,0 +1,234 @@
+* {
+    border: 0px;
+    margin: 0px;
+    /* box-sizing: border-box; */
+}
+
+.item,
+.a,
+.b,
+.c,
+.d,
+.e,
+.f,
+.g {
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-around; */
+    width: 120px;
+    height: 90px;
+    border: 1px solid silver;
+    font-size: 50px;
+    padding: 0px;
+    text-align: center;
+}
+
+.a:nth-child(even) {
+    background-color: aqua;
+}
+
+.c:nth-child(even) {
+    background-color: aqua;
+}
+
+.e:nth-child(even) {
+    background-color: aqua;
+}
+
+.g:nth-child(even) {
+    background-color: aqua;
+}
+
+.b:nth-child(odd) {
+    background-color: aqua;
+}
+
+.d:nth-child(odd) {
+    background-color: aqua;
+}
+
+.f:nth-child(odd) {
+    background-color: aqua;
+}
+
+.item:nth-child(odd) {
+    background-color: aqua;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    /* border: 2px solid black; */
+    width: 974px;
+    /* padding: 10px; */
+    height: 300px;
+    margin: 150px;
+}
+
+.item1:hover {
+    font-size: 57px;
+    color: red;
+}
+
+.item7:hover {
+    font-size: 57px;
+    color: blue;
+}
+
+.item:hover {
+    font-size: 57px;
+    color: blue;
+}
+
+.a_1:hover {
+    font-size: 57px;
+    color: red;
+}
+
+.item2:hover {
+    font-size: 57px;
+    color: red;
+
+}
+
+.a_2:hover {
+    font-size: 57px;
+    color: red;
+}
+
+.b_1:hover {
+    font-size: 57px;
+    color: red;
+}
+
+.b_2:hover {
+    font-size: 57px;
+    color: red;
+}
+
+.c_1:hover {
+    font-size: 57px;
+    color: red;
+}
+
+.c_2:hover {
+    font-size: 57px;
+    color: red;
+}
+
+.d_1:hover {
+    font-size: 57px;
+    color: red;
+}
+
+.d_2:hover {
+    font-size: 57px;
+    color: red;
+}
+
+.e_1:hover {
+    font-size: 57px;
+    color: red;
+}
+
+.e_2:hover {
+    font-size: 57px;
+    color: red;
+}
+
+.f_1:hover {
+    font-size: 57px;
+    color: red;
+}
+
+.f_2:hover {
+    font-size: 57px;
+    color: red;
+}
+
+.g_1:hover {
+    font-size: 57px;
+    color: red;
+}
+
+.g_2:hover {
+    font-size: 57px;
+    color: red;
+}
+
+.b_3:hover {
+    font-size: 57px;
+    color: blue;
+}
+
+.b_4:hover {
+    font-size: 57px;
+    color: blue;
+}
+
+.c_3:hover {
+    font-size: 57px;
+    color: blue;
+}
+
+.c_4:hover {
+    font-size: 57px;
+    color: blue;
+}
+
+.d_3:hover {
+    font-size: 57px;
+    color: blue;
+}
+
+.d_4:hover {
+    font-size: 57px;
+    color: blue;
+}
+
+.e_3:hover {
+    font-size: 57px;
+    color: blue;
+}
+
+.e_4:hover {
+    font-size: 57px;
+    color: blue;
+}
+
+.f_3:hover {
+    font-size: 57px;
+    color: blue;
+}
+
+.f_4:hover {
+    font-size: 57px;
+    color: blue;
+}
+
+.g_3:hover {
+    font-size: 57px;
+    color: blue;
+}
+
+.g_4:hover {
+    font-size: 57px;
+    color: blue;
+}
+
+.e_4:hover {
+    font-size: 57px;
+    color: blue;
+}
+
+.a_3:hover {
+    font-size: 57px;
+    color: blue;
+}
+
+.a_4:hover {
+    font-size: 57px;
+    color: blue;
+}
